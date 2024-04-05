@@ -1,6 +1,6 @@
 
 # aim
-To simulate and synthesis multiplexer using vivado 2023.2
+To simulate and synthesis demultiplexer using vivado 2023.2
 
 # apparatus
 vivado 2023
